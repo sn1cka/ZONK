@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from ZONK.zonk_scores_calculator import ScoresCalculator
+from zonk_scores_calculator import ScoresCalculator
 
 
 class ZonkTest(TestCase):
